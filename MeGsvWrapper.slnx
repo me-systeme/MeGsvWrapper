@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MeGsvWrapper/MeGsvWrapper.csproj" />
+  <Project Path="TestConsole/TestConsole.csproj" Id="42928f7c-8091-4343-8d01-cbaab86a1588">
+    <Platform Solution="*|x86" Project="x86" />
+  </Project>
+</Solution>
